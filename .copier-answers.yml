@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2025.11.21-25-gad4434f
+_src_path: gh:scientific-python/cookie
+backend: hatch
+docs: mkdocs
+email: thabashy
+full_name: Timothy
+license: MIT
+org: timothyhabashy
+project_name: data_bootcamp_project
+project_short_description: A great package.
+url: https://github.com/timothyhabashy/data_bootcamp_project
+vcs: true
